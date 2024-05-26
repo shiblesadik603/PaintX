@@ -23,11 +23,6 @@
 
 
         <div class="flex-none gap-2">
-            <ul>
-                <li>
-                    <a href="/blogs">Blogs</a>
-                </li>
-            </ul>
           <div class="dropdown dropdown-end">
             <a href="/cart" class="btn btn-ghost btn-circle">
               <div class="indicator">
