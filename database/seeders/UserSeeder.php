@@ -19,7 +19,7 @@ class UserSeeder extends Seeder
                 'username' => 'shible',
                 'email' => 'shible@email.com',
                 'password' => bcrypt('1234'),
-                'phone' => '01717414141',
+                'phone' => '01762002498',
                 'address' => 'Kuet',
                 'photo' => 'shible.jpg',
                 'role' => 'admin',
