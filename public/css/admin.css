@@ -9,7 +9,7 @@ body {
 /* Navbar styling */
 .navbar {
     background-color: #333;
-    color: white;
+    color: rgb(240, 222, 222);
     padding: 10px 20px;
     display: flex;
     justify-content: space-between;
